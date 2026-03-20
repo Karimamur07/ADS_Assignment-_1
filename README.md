@@ -1,5 +1,7 @@
 Student: Mursalimova Karima
+
 Group: IT-2502
+
 Part 1. Recursion with Numbers
 
 Task 1
